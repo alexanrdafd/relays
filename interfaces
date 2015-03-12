@@ -1,0 +1,144 @@
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# The primary network interface
+# auto em1
+iface em1:0 inet static
+address 193.166.167.68
+netmask 255.255.255.224
+gateway 193.166.167.65
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:1 inet static
+address 193.166.167.69
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:2 inet static
+address 193.166.167.70 
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:3 inet static
+address 193.166.167.71
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:4 inet static
+address 193.166.167.72
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:5 inet static
+address 193.166.167.73
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:6 inet static
+address 193.166.167.74
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:7 inet static
+address 193.166.167.75
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:8 inet static
+address 193.166.167.76
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:9 inet static
+address 193.166.167.77
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:10 inet static
+address 193.166.167.78
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:11 inet static
+address 193.166.167.79
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:12 inet static
+address 193.166.167.80
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:13 inet static
+address 193.166.167.81
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:14 inet static
+address 193.166.167.82
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:15 inet static
+address 193.166.167.83
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:16 inet static
+address 193.166.167.84
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:17 inet static
+address 193.166.167.85
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:18 inet static
+address 193.166.167.86
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:19 inet static
+address 193.166.167.87
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:20 inet static
+address 193.166.167.88
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:21 inet static
+address 193.166.167.89
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:22 inet static
+address 193.166.167.90
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:23 inet static
+address 193.166.167.91
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:24 inet static
+address 193.166.167.92
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:25 inet static
+address 193.166.167.93
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
+
+iface em1:26 inet static
+address 193.166.167.94
+netmask 255.255.255.224
+dns-nameservers 130.230.24.10 130.230.102.10
