@@ -1,0 +1,11 @@
+SocksPort 9071
+RunAsDaemon 1
+ORPort 9001
+Nickname haamu
+ContactInfo juha.nurmi(att)tut.fi
+DirPort 9031
+ExitPolicy reject *:*
+AvoidDiskWrites 1
+MaxMemInQueues 512 MB
+MyFamily haamu
+
